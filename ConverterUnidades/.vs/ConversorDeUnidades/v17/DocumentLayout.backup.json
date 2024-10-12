@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NetoOP\\Documents\\ConversorDeUnidades\\ConverterUnidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0652F16A-5DCF-4FA6-B54D-EA959617224B}|ConversorDeUnidades\\ConversorDeUnidades.csproj|c:\\users\\netoop\\documents\\conversordeunidades\\converterunidades\\conversordeunidades\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0652F16A-5DCF-4FA6-B54D-EA959617224B}|ConversorDeUnidades\\ConversorDeUnidades.csproj|solutionrelative:conversordeunidades\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0652F16A-5DCF-4FA6-B54D-EA959617224B}|ConversorDeUnidades\\ConversorDeUnidades.csproj|c:\\users\\netoop\\documents\\conversordeunidades\\converterunidades\\conversordeunidades\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0652F16A-5DCF-4FA6-B54D-EA959617224B}|ConversorDeUnidades\\ConversorDeUnidades.csproj|solutionrelative:conversordeunidades\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NetoOP\\Documents\\ConversorDeUnidades\\ConverterUnidades\\ConversorDeUnidades\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ConversorDeUnidades\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\NetoOP\\Documents\\ConversorDeUnidades\\ConverterUnidades\\ConversorDeUnidades\\MainPage.xaml.cs",
+              "RelativeToolTip": "ConversorDeUnidades\\MainPage.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:40:26.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\NetoOP\\Documents\\ConversorDeUnidades\\ConverterUnidades\\ConversorDeUnidades\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ConversorDeUnidades\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\NetoOP\\Documents\\ConversorDeUnidades\\ConverterUnidades\\ConversorDeUnidades\\MainPage.xaml",
+              "RelativeToolTip": "ConversorDeUnidades\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T23:40:14.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
